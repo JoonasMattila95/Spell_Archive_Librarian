@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Resources/Taikuri.jpg</file>
+    </qresource>
+</RCC>
